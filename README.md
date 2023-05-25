@@ -5,7 +5,15 @@ This repository contains Python code for scraping data from Twitter's API to cre
 
 ## Disclaimer
 
-Twitter's terms of service prohibit users from "scraping, crawling, or using any automated means to access the Services or Content." However, Twitter does provide an exception for "non-commercial research or analysis." This means that you can scrape Twitter's HTML for personal or research purposes without violating the terms of service while scraping public data.
+Twitter's terms of service prohibit users from "scraping, crawling, or using any automated means to access the Services or Content." However, Twitter does provide an exception for "non-commercial research or analysis." This means that you can scrape Twitter's HTML for personal or research purposes without violating the terms of service while scraping public data:
+
+ 
+
+>    *Non-Commercial Use.* You may use the Services and Content for non-commercial research or analysis purposes, provided that you comply with all of the terms of this Agreement. For example, you may use the Services and Content to conduct surveys, analyze trends, or develop new products or services. However, you may not use the Services and Content for any commercial purpose, such as to sell advertising, market products or services, or generate leads.
+>    *Commercial Use.* If you wish to use the Services and Content for any commercial purpose, you must obtain a license from Twitter.
+
+You can find the full terms of service here: https://developer.twitter.com/en/developer-terms/agreement-and-policy
+
 
 ## Installation
 

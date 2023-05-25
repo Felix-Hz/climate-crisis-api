@@ -2,7 +2,12 @@
 ## Introduction
 
 This repository contains Python code for scraping data from Twitter's API to create a dataset focusing on people's attitudes and opinions on the climate crisis. The collected data can then be used as a prototype for conducting sentiment analysis. This documentation provides an overview of the project structure, installation instructions, usage guidelines, and additional information.
-Installation
+
+## Disclaimer
+
+Twitter's terms of service prohibit users from "scraping, crawling, or using any automated means to access the Services or Content." However, Twitter does provide an exception for "non-commercial research or analysis." This means that you can scrape Twitter's HTML for personal or research purposes without violating the terms of service while scraping public data.
+
+## Installation
 
 ### To use this repository, follow these steps:
 
